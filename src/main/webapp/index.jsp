@@ -4,7 +4,7 @@
 
 </head>
 <body>
-	<h1>Hello Class!</h1>
+	<h1>Hello World!</h1>
 	<h1>DevOps Training - Sep 2023 Batch</h1>
 	<h1>This is automated deployment enabled using webhook to jenkins job</h1>
 	<h2>CI CD completed and automated demo</h2>
