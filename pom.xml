@@ -29,19 +29,24 @@
 			</plugin>
 		</plugins>
 	</build>
- <repositories>
+<repositories>
     <repository>
       <id>java-maven-war-appD-group</id>
-      <url>http://13.43.109.210:8081/repository/java-maven-war-appD-group/</url>
+      <url>http://52.66.231.191:8081/repository/java-maven-war-appD-group/</url>
     </repository>
   </repositories>
 
     <distributionManagement>
     <snapshotRepository>
       <id>java-maven-war-appD-snapshot</id>
-      <url>http://13.43.109.210:8081/repository/java-maven-war-appD-snapshot/</url>
+      <url>http://52.66.231.191:8081/repository/java-maven-war-appD-snapshot/</url>
     </snapshotRepository>
     <repository>
+      <id>java-maven-war-appD-release</id>
+      <url>http://52.66.231.191:8081/repository/java-maven-war-appD-release/</url>
+    </repository>
+  </distributionManagement>
+</project>
       <id>java-maven-war-appD-release</id>
       <url>http://13.43.109.210:8081/repository/java-maven-war-appD-release/</url>
     </repository>
