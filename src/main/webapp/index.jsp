@@ -7,7 +7,7 @@
 	<h1>Hello Class!</h1>
 	<h1>DevOps Training - Sep 2023 Batch</h1>
 	<h1>This is automated deployment enabled using webhook to jenkins job</h1>
-        </h1>hello-world</h1>
+        </h2>hello-world</h2>
 	<h2>CI CD completed and automated demo</h2>
 	<p>
 		It is now
